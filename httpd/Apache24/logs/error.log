@@ -1,0 +1,91 @@
+[Mon Aug 10 17:52:37.030556 2020] [mpm_winnt:notice] [pid 4552:tid 376] AH00455: Apache/2.4.46 (Win64) configured -- resuming normal operations
+[Mon Aug 10 17:52:37.030556 2020] [mpm_winnt:notice] [pid 4552:tid 376] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Mon Aug 10 17:52:37.030556 2020] [core:notice] [pid 4552:tid 376] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Mon Aug 10 17:52:37.047155 2020] [mpm_winnt:notice] [pid 4552:tid 376] AH00418: Parent: Created child process 12544
+[Mon Aug 10 17:52:37.452128 2020] [mpm_winnt:notice] [pid 12544:tid 248] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 11 11:26:49.696927 2020] [mpm_winnt:notice] [pid 4552:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 11 11:26:51.696927 2020] [mpm_winnt:notice] [pid 12544:tid 248] AH00364: Child: All worker threads have exited.
+[Tue Aug 11 11:26:51.720927 2020] [mpm_winnt:notice] [pid 4552:tid 376] AH00430: Parent: Child process 12544 exited successfully.
+[Tue Aug 11 13:23:36.883227 2020] [mpm_winnt:notice] [pid 16600:tid 376] AH00455: Apache/2.4.46 (Win64) configured -- resuming normal operations
+[Tue Aug 11 13:23:36.884227 2020] [mpm_winnt:notice] [pid 16600:tid 376] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Tue Aug 11 13:23:36.884227 2020] [core:notice] [pid 16600:tid 376] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Tue Aug 11 13:23:36.918227 2020] [mpm_winnt:notice] [pid 16600:tid 376] AH00418: Parent: Created child process 14256
+[Tue Aug 11 13:23:37.376227 2020] [mpm_winnt:notice] [pid 14256:tid 248] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 11 13:25:35.948796 2020] [mpm_winnt:notice] [pid 16600:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 11 13:25:37.948796 2020] [mpm_winnt:notice] [pid 14256:tid 248] AH00364: Child: All worker threads have exited.
+[Tue Aug 11 13:25:37.981796 2020] [mpm_winnt:notice] [pid 16600:tid 376] AH00430: Parent: Child process 14256 exited successfully.
+[Tue Aug 11 13:25:41.775796 2020] [mpm_winnt:notice] [pid 18792:tid 376] AH00455: Apache/2.4.46 (Win64) configured -- resuming normal operations
+[Tue Aug 11 13:25:41.776796 2020] [mpm_winnt:notice] [pid 18792:tid 376] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Tue Aug 11 13:25:41.776796 2020] [core:notice] [pid 18792:tid 376] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Tue Aug 11 13:25:41.834796 2020] [mpm_winnt:notice] [pid 18792:tid 376] AH00418: Parent: Created child process 6556
+[Tue Aug 11 13:25:42.272796 2020] [mpm_winnt:notice] [pid 6556:tid 248] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 11 13:28:51.614993 2020] [mpm_winnt:notice] [pid 18792:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 11 13:28:53.615792 2020] [mpm_winnt:notice] [pid 6556:tid 248] AH00364: Child: All worker threads have exited.
+[Tue Aug 11 13:28:53.637792 2020] [mpm_winnt:notice] [pid 18792:tid 376] AH00430: Parent: Child process 6556 exited successfully.
+[Tue Aug 11 13:31:40.938187 2020] [mpm_winnt:notice] [pid 7344:tid 376] AH00455: Apache/2.4.46 (Win64) configured -- resuming normal operations
+[Tue Aug 11 13:31:40.941187 2020] [mpm_winnt:notice] [pid 7344:tid 376] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Tue Aug 11 13:31:40.941187 2020] [core:notice] [pid 7344:tid 376] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Tue Aug 11 13:31:41.003187 2020] [mpm_winnt:notice] [pid 7344:tid 376] AH00418: Parent: Created child process 16064
+[Tue Aug 11 13:31:41.352187 2020] [mpm_winnt:notice] [pid 16064:tid 248] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 11 13:31:48.233187 2020] [mpm_winnt:notice] [pid 7344:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 11 13:31:50.234187 2020] [mpm_winnt:notice] [pid 16064:tid 248] AH00364: Child: All worker threads have exited.
+[Tue Aug 11 13:31:50.264187 2020] [mpm_winnt:notice] [pid 7344:tid 376] AH00430: Parent: Child process 16064 exited successfully.
+[Tue Aug 11 13:39:15.256432 2020] [mpm_winnt:notice] [pid 14024:tid 440] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Tue Aug 11 13:39:15.256432 2020] [mpm_winnt:notice] [pid 14024:tid 440] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Tue Aug 11 13:39:15.256432 2020] [core:notice] [pid 14024:tid 440] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Tue Aug 11 13:39:15.303232 2020] [mpm_winnt:notice] [pid 14024:tid 440] AH00418: Parent: Created child process 6100
+[Tue Aug 11 13:39:15.717442 2020] [mpm_winnt:notice] [pid 6100:tid 316] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 12 09:31:38.694362 2020] [mpm_winnt:notice] [pid 14024:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 12 09:32:08.610362 2020] [mpm_winnt:notice] [pid 6100:tid 316] AH00364: Child: All worker threads have exited.
+[Wed Aug 12 09:32:08.626362 2020] [mpm_winnt:notice] [pid 14024:tid 440] AH00430: Parent: Child process 6100 exited successfully.
+[Wed Aug 12 09:32:19.321362 2020] [mpm_winnt:notice] [pid 18228:tid 440] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Wed Aug 12 09:32:19.321362 2020] [mpm_winnt:notice] [pid 18228:tid 440] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Wed Aug 12 09:32:19.321362 2020] [core:notice] [pid 18228:tid 440] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Wed Aug 12 09:32:19.329362 2020] [mpm_winnt:notice] [pid 18228:tid 440] AH00418: Parent: Created child process 7768
+[Wed Aug 12 09:32:19.693362 2020] [mpm_winnt:notice] [pid 7768:tid 316] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 12 17:03:22.476493 2020] [mpm_winnt:notice] [pid 18228:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 12 17:03:24.476493 2020] [mpm_winnt:notice] [pid 7768:tid 316] AH00364: Child: All worker threads have exited.
+[Wed Aug 12 17:03:24.550493 2020] [mpm_winnt:notice] [pid 18228:tid 440] AH00430: Parent: Child process 7768 exited successfully.
+[Wed Aug 12 17:03:44.760493 2020] [mpm_winnt:notice] [pid 22364:tid 444] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Wed Aug 12 17:03:44.760493 2020] [mpm_winnt:notice] [pid 22364:tid 444] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Wed Aug 12 17:03:44.760493 2020] [core:notice] [pid 22364:tid 444] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Wed Aug 12 17:03:44.768493 2020] [mpm_winnt:notice] [pid 22364:tid 444] AH00418: Parent: Created child process 12164
+[Wed Aug 12 17:03:50.129493 2020] [mpm_winnt:notice] [pid 12164:tid 320] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 12 17:03:57.230493 2020] [php7:warn] [pid 12164:tid 840] [client ::1:28010] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'user' in H:\\httpd\\Apache24\\htdocs\\index.php on line 2
+[Wed Aug 12 17:22:17.821493 2020] [mpm_winnt:notice] [pid 22364:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 12 17:22:38.322493 2020] [mpm_winnt:notice] [pid 12164:tid 320] AH00364: Child: All worker threads have exited.
+[Wed Aug 12 17:22:38.358493 2020] [mpm_winnt:notice] [pid 22364:tid 444] AH00430: Parent: Child process 12164 exited successfully.
+[Wed Aug 12 17:22:48.941493 2020] [mpm_winnt:notice] [pid 20804:tid 440] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Wed Aug 12 17:22:48.941493 2020] [mpm_winnt:notice] [pid 20804:tid 440] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Wed Aug 12 17:22:48.941493 2020] [core:notice] [pid 20804:tid 440] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Wed Aug 12 17:22:48.950493 2020] [mpm_winnt:notice] [pid 20804:tid 440] AH00418: Parent: Created child process 20492
+[Wed Aug 12 17:22:49.306493 2020] [mpm_winnt:notice] [pid 20492:tid 316] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 12 17:22:54.440493 2020] [php7:error] [pid 20492:tid 836] [client ::1:30109] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in H:\\httpd\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in H:\\httpd\\Apache24\\htdocs\\index.php on line 2
+[Wed Aug 12 17:23:07.218493 2020] [mpm_winnt:notice] [pid 20804:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 12 17:23:37.218493 2020] [mpm_winnt:notice] [pid 20804:tid 440] AH00431: Parent: Forcing termination of child process 20492
+[Wed Aug 12 17:24:06.638493 2020] [mpm_winnt:notice] [pid 22116:tid 444] AH00455: Apache/2.4.46 (Win64) PHP/7.3.21 configured -- resuming normal operations
+[Wed Aug 12 17:24:06.638493 2020] [mpm_winnt:notice] [pid 22116:tid 444] AH00456: Apache Lounge VS16 Server built: Aug  2 2020 10:21:32
+[Wed Aug 12 17:24:06.638493 2020] [core:notice] [pid 22116:tid 444] AH00094: Command line: 'H:\\httpd\\Apache24\\bin\\httpd.exe -d H:/httpd/Apache24'
+[Wed Aug 12 17:24:06.645493 2020] [mpm_winnt:notice] [pid 22116:tid 444] AH00418: Parent: Created child process 18016
+[Wed Aug 12 17:24:06.984493 2020] [mpm_winnt:notice] [pid 18016:tid 320] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 12 17:24:56.026493 2020] [php7:notice] [pid 18016:tid 828] [client ::1:30257] PHP Notice:  Undefined variable: db in H:\\httpd\\Apache24\\htdocs\\index.php on line 8
+[Wed Aug 12 17:24:56.027493 2020] [php7:error] [pid 18016:tid 828] [client ::1:30257] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in H:\\httpd\\Apache24\\htdocs\\index.php:8\nStack trace:\n#0 {main}\n  thrown in H:\\httpd\\Apache24\\htdocs\\index.php on line 8
+[Wed Aug 12 17:25:33.177493 2020] [php7:error] [pid 18016:tid 828] [client ::1:30370] PHP Parse error:  syntax error, unexpected '<', expecting end of file in H:\\httpd\\Apache24\\htdocs\\index.php on line 2
+[Wed Aug 12 17:27:40.124493 2020] [php7:error] [pid 18016:tid 832] [client ::1:30734] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in H:\\httpd\\Apache24\\htdocs\\index.php on line 10
+[Wed Aug 12 17:27:45.525493 2020] [php7:error] [pid 18016:tid 832] [client ::1:30734] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in H:\\httpd\\Apache24\\htdocs\\index.php on line 9
+[Wed Aug 12 17:38:28.006493 2020] [php7:notice] [pid 18016:tid 832] [client ::1:32044] PHP Notice:  Array to string conversion in H:\\httpd\\Apache24\\htdocs\\index.php on line 11
+[Wed Aug 12 17:38:44.713493 2020] [php7:notice] [pid 18016:tid 828] [client ::1:32084] PHP Notice:  Array to string conversion in H:\\httpd\\Apache24\\htdocs\\index.php on line 11
+[Wed Aug 12 18:17:08.977493 2020] [php7:warn] [pid 18016:tid 828] [client ::1:36843] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.977493 2020] [php7:notice] [pid 18016:tid 828] [client ::1:36843] PHP Notice:  Undefined index: i in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.978493 2020] [php7:warn] [pid 18016:tid 828] [client ::1:36843] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.978493 2020] [php7:notice] [pid 18016:tid 828] [client ::1:36843] PHP Notice:  Undefined index: i in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.978493 2020] [php7:warn] [pid 18016:tid 828] [client ::1:36843] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.978493 2020] [php7:notice] [pid 18016:tid 828] [client ::1:36843] PHP Notice:  Undefined index: i in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.978493 2020] [php7:warn] [pid 18016:tid 828] [client ::1:36843] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.978493 2020] [php7:notice] [pid 18016:tid 828] [client ::1:36843] PHP Notice:  Undefined index: i in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.978493 2020] [php7:warn] [pid 18016:tid 828] [client ::1:36843] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:08.978493 2020] [php7:notice] [pid 18016:tid 828] [client ::1:36843] PHP Notice:  Undefined index: i in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:21.468493 2020] [php7:notice] [pid 18016:tid 832] [client ::1:36894] PHP Notice:  Undefined offset: 2 in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:21.468493 2020] [php7:notice] [pid 18016:tid 832] [client ::1:36894] PHP Notice:  Undefined offset: 3 in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:21.468493 2020] [php7:notice] [pid 18016:tid 832] [client ::1:36894] PHP Notice:  Undefined offset: 4 in H:\\httpd\\Apache24\\htdocs\\index.php on line 14
+[Wed Aug 12 18:17:21.468493 2020] [php7:notice] [pid 18016:tid 832] [client ::1:36894] PHP Notice:  Undefined offset: 5 in H:\\httpd\\Apache24\\htdocs\\index.php on line 14

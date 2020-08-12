@@ -29,5 +29,6 @@
 5、php配置
 
         将 PHP文件夹目录下的php.ini-development（开发环境，不对外公网开放）或者php.ini-product（产品环境，对外开放，其安全性能更高）二者选其一，复制并修改为 php.ini ，修改内容如下：
-        第 724行左右， 将 ;extension_dir = "ext" 修改为 extension_dir = " php根目录/ext"，windows的斜杠为“/”
+        第 724行左右， 将 ;extension_dir = "ext" 修改为 extension_dir = "php根目录/ext"
+        extension=mysqli 打开
 
